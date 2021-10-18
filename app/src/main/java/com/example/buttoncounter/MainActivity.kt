@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var btnp: Button
     private lateinit var btnm: Button
 
-    var counter = 0
+    var counter = 26
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
